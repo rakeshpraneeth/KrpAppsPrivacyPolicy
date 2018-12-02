@@ -1,5 +1,6 @@
 <html>
 <body>
+<h2>Privacy Policy</h2>
 <p>KRP built the Infotainment app as a free and ad-supported app. This service is provided by KRP at no cost and is intended
     for use as is.</p>
 <p>This page is used to inform visitors regarding my policies with the collection, use, and
