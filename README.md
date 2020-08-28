@@ -10,7 +10,7 @@
     improving the Service. I will not use or share your information with anyone except as described
     in this Privacy Policy.</p>
 <p>The terms used in this Privacy Policy have the same meanings as in my Terms and Conditions,
-    which is accessible at Infotainment, unless otherwise defined in this Privacy Policy.</p>
+    which is accessible at App, unless otherwise defined in this Privacy Policy.</p>
 
 <p><strong>Information Collection and Use</strong></p>
 <p>For a better experience while using my Service, I may require you to provide me with certain
@@ -40,7 +40,7 @@
 
 <h2>Use of Data</h2>
 
-<p>Infotainment uses the collected data for various purposes:</p>
+<p>App uses the collected data for various purposes:</p>
 <ul>
     <li>To provide and maintain the Service</li>
     <li>To notify you about changes to our Service</li>
@@ -51,15 +51,15 @@
     <li>To detect, prevent and address technical issues</li>
 </ul>
 
-<p>Infotainment will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.</p>
+<p>App will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.</p>
 
 <h2>Disclosure Of Data</h2>
 
 <h3>Legal Requirements</h3>
-<p>Infotainment may disclose your Personal Data in the good faith belief that such action is necessary to:</p>
+<p>KRP may disclose your Personal Data in the good faith belief that such action is necessary to:</p>
 <ul>
     <li>To comply with a legal obligation</li>
-    <li>To protect and defend the rights or property of Infotainment</li>
+    <li>To protect and defend the rights or property of KRP</li>
     <li>To prevent or investigate possible wrongdoing in connection with the Service</li>
     <li>To protect the personal safety of users of the Service or the public</li>
     <li>To protect against legal liability</li>
